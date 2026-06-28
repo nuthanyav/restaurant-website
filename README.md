@@ -34,7 +34,7 @@ A fully responsive restaurant website built using HTML, CSS, and JavaScript.
 
 \## Live Demo
 
-https://ubiquitous-longma-aab70a.netlify.app
+https://bellacucina-restaurant.netlify.app
 
 
 
