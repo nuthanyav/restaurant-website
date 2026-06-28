@@ -1,4 +1,4 @@
-\# 🍝 Bella Cucina – Restaurant Website
+\# Bella Cucina - Restaurant Website
 
 
 
@@ -10,11 +10,11 @@
 
 
 
-A fully responsive restaurant website featuring a video hero section, dynamic menu, photo gallery, and a mobile-friendly navigation menu — built entirely with HTML, CSS, and JavaScript.
+A fully responsive restaurant website featuring a video hero section, dynamic menu, photo gallery, and a mobile-friendly navigation menu - built entirely with HTML, CSS, and JavaScript.
 
 
 
-🔗 \*\*\[View Live Demo](https://bellacucina-restaurant.netlify.app)\*\*
+\*\*\[View Live Demo](https://bellacucina-restaurant.netlify.app)\*\*
 
 
 
@@ -22,33 +22,33 @@ A fully responsive restaurant website featuring a video hero section, dynamic me
 
 
 
-\## ✨ Features
+\## Features
 
-\- 🎥 Looping background video in the hero section
+\- Looping background video in the hero section
 
-\- 📱 Fully responsive design (mobile, tablet, desktop)
+\- Fully responsive design (mobile, tablet, desktop)
 
-\- 🍔 Mobile hamburger navigation menu
+\- Mobile hamburger navigation menu
 
-\- 🍕 Categorized menu section (Starters, Mains, Desserts)
+\- Categorized menu section (Starters, Mains, Desserts)
 
-\- 🖼️ Photo gallery with CSS Grid layout
+\- Photo gallery with CSS Grid layout
 
-\- ✉️ Styled contact form (front-end only)
-
-
-
-\## 🛠️ Tech Stack
-
-\- \*\*HTML5\*\* – Semantic markup
-
-\- \*\*CSS3\*\* – Flexbox, Grid, media queries, transitions, text-shadow, filters
-
-\- \*\*JavaScript\*\* – DOM manipulation, event listeners
+\- Styled contact form (front-end only)
 
 
 
-\## 📚 What I Learned
+\## Tech Stack
+
+\- \*\*HTML5\*\* - Semantic markup
+
+\- \*\*CSS3\*\* - Flexbox, Grid, media queries, transitions, text-shadow, filters
+
+\- \*\*JavaScript\*\* - DOM manipulation, event listeners
+
+
+
+\## What I Learned
 
 \- Structuring a website using semantic HTML
 
@@ -62,7 +62,7 @@ A fully responsive restaurant website featuring a video hero section, dynamic me
 
 
 
-\## 📸 Preview
+\## Preview
 
 
 
@@ -74,5 +74,5 @@ A fully responsive restaurant website featuring a video hero section, dynamic me
 
 
 
-⭐ If you like this project, consider giving it a star!
+If you like this project, consider giving it a star!
 
