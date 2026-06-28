@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bella Cucina | Restaurant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">Bella Cucina</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <button class="hamburger" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <video autoplay muted loop playsinline class="hero-video">
+      <source src="images/pizza.mp4" type="video/mp4">
+    </video>
+    <div class="hero-content">
+      <h1>Authentic Flavors, Made with Love</h1>
+      <p>Experience the taste of Italy in every bite</p>
+      <a href="#menu" class="btn">View Menu</a>
+    </div>
+</section>
+
+ <section id="menu" class="menu">
+    <h2>Our Menu</h2>
+
+    <div class="menu-category">
+      <h3>Starters</h3>
+      <div class="menu-item">
+        <span class="item-name">Bruschetta</span>
+        <span class="item-price">$8</span>
+      </div>
+      <div class="menu-item">
+        <span class="item-name">Garlic Bread</span>
+        <span class="item-price">$6</span>
+      </div>
+    </div>
+
+    <div class="menu-category">
+      <h3>Mains</h3>
+      <div class="menu-item">
+        <span class="item-name">Spaghetti Carbonara</span>
+        <span class="item-price">$16</span>
+      </div>
+      <div class="menu-item">
+        <span class="item-name">Margherita Pizza</span>
+        <span class="item-price">$14</span>
+      </div>
+    </div>
+
+    <div class="menu-category">
+      <h3>Desserts</h3>
+      <div class="menu-item">
+        <span class="item-name">Tiramisu</span>
+        <span class="item-price">$7</span>
+      </div>
+    </div>
+</section>
+
+  <section id="about" class="about">
+    <h2>About Us</h2>
+    <p>
+      Founded in 2015, Bella Cucina brings the heart of Italian cooking to your table.
+      Our chefs use family recipes passed down through generations, paired with fresh,
+      locally-sourced ingredients to create dishes that feel like home.
+    </p>
+    <p>
+      Whether you're here for a quiet dinner or celebrating with family, our goal is
+      simple: great food, warm hospitality, and an experience worth coming back for.
+    </p>
+</section>
+
+  <section id="gallery" class="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+  <img src="images/interior.jpg" alt="Restaurant interior">
+  <img src="images/pasta.jpg" alt="Pasta dish">
+  <img src="images/pizza.jpg" alt="Pizza dish">
+  <img src="images/dessert.jpg" alt="Dessert plate">
+  <img src="images/chef.jpg" alt="Chef cooking">
+  <img src="images/dining.jpg" alt="Dining area">
+</div>
+</section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <div class="contact-info">
+      <p><strong>Address:</strong> 123 Pasta Lane, Foodtown</p>
+      <p><strong>Phone:</strong> (555) 123-4567</p>
+      <p><strong>Hours:</strong> Mon-Sun, 11am - 10pm</p>
+    </div>
+
+    <form class="contact-form">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Your Message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+</section>
+
+  <footer>
+    <p>&copy; 2026 Bella Cucina. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
