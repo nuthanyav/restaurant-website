@@ -27,9 +27,6 @@ A fully responsive restaurant website featuring a video hero section, dynamic me
 - Using video as a background element with readable overlay text
 
 ## Preview
-
 ![Website Preview](images/preview.jpg)
-
 ---
-
 If you like this project, consider giving it a star!
